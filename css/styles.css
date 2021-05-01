@@ -1,0 +1,55 @@
+#parallax_main{
+    background-image: url("/images/abbienewcar26679web.jpg");
+    background: position 80%;
+    background-repeat:repeat no-repeat;
+    height: 600px;
+}
+
+#parallax_main>nav button {
+    padding: 1rem;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+#parallax_one {
+    background-image: url("/images/greatwall2119.jpg");
+    height: 600px; 
+}
+#parallax_two { 
+    background-image: url("/images/aberdeenapartments2961.jpg");
+    height: 600px;
+    background-repeat:no-repeat;
+
+}
+#parallax_three {
+   background-image: url("/images/england2217.jpg");
+   height: 600px;
+   background-repeat:no-repeat;
+}
+
+#parallax_four {
+    background-image: url("/images/viewfromourroom6684.jpg");
+    height: 600px;
+    background-repeat:no-repeat;
+    
+}.parallax_wrapper {
+    background-color: rgba(173, 216, 230, 0.133);
+    color:white;
+    font-weight:bold;
+    width: 500px;
+    height: 260px;
+    border-radius: 25px;
+    padding-top: 3rem;
+    padding-left: 4rem;
+    margin: 0rem;
+}
+
+.parallax_effect { 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.footer {
+    background-color: cornsilk;
+    height: 200px;
+}
